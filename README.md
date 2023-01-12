@@ -1,2 +1,3 @@
-# ForntEndWebPabeAsWeShare
-Frontend working with css3 and html5
+# TECHNOLOGIES
+CSS3
+HTML5
